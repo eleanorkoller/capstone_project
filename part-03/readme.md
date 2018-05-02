@@ -1,4 +1,4 @@
-# Please look at Politifact EDA and Preliminary Analysis.ipynb to see how I handled the following tasks:
+## Please look at Politifact EDA and Preliminary Analysis.ipynb to see how I handled the following tasks:
 
 1. Create a "progress report" that documents:
    - Your approach to exploratory data analysis
